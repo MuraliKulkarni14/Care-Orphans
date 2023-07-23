@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="300dp"
+    android:layout_height="250dp"
+    android:gravity="bottom"
+    android:padding="16dp"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+    <ImageView
+        android:layout_width="168dp"
+        android:layout_height="119dp"
+        android:src="@drawable/icon" />
+
+    <TextView
+        android:layout_width="102dp"
+        android:layout_height="26dp"
+        android:text="Care Orphans"
+        android:textColor="@color/blue"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="160dp"
+        android:layout_height="26dp"
+        android:text="bhanuteja@gmail.com"
+        android:textColor="@color/blue"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="154dp"
+        android:layout_height="31dp"
+        android:layout_marginBottom="10dp"
+        android:text="Contact: 9390778183"
+        android:textColor="@color/blue"
+        android:textSize="14sp" />
+
+</LinearLayout>

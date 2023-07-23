@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "247991903408",
+    "project_id": "care-orphans",
+    "storage_bucket": "care-orphans.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247991903408:android:ea0e39d99a25f8db7e0775",
+        "android_client_info": {
+          "package_name": "com.dev.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247991903408-l87qvfu54ds56rppjho87mf803g878jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADLa1kliiagVsnc7jEaToEYQGPznLyI_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247991903408-l87qvfu54ds56rppjho87mf803g878jv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247991903408:android:bc47f29b861bba987e0775",
+        "android_client_info": {
+          "package_name": "com.example.corphan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247991903408-l87qvfu54ds56rppjho87mf803g878jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADLa1kliiagVsnc7jEaToEYQGPznLyI_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247991903408-l87qvfu54ds56rppjho87mf803g878jv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
